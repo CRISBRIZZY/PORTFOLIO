@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(90, 60, 77)
+}
+.center-group {
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    font-style: oblique;
+    justify-content: center;
+    font-size: 3em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    background-color: rgba(0,0,0,0.3); /* semi-transparent black */
+    padding: 30px 40px;s
+}
+.smallText {
+    font-size: 1em;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    background-color: rgb(90, 60, 77);
+}

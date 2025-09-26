@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(90, 60, 77);
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 15em;
+    color: white;
+    font-style: italic;
+    margin: 0;
+}
+.vheroo {
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.3); /* semi-transparent black */
+    padding: 30px 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2); /* optional: adds a shadow */
+    max-width: 600px;
+    margin: 0 auto;
+}
+.smallText {
+    font-size: 1em;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    background-color: rgb(90, 60, 77);
+}

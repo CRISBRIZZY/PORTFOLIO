@@ -1,0 +1,33 @@
+body {
+    background-color:  rgb(90, 60, 77);
+}
+.container {
+    text-align: center;
+    font-style: italic;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: left 20px; ;
+    color: white;
+    font-size: 4em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    
+}
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+.smallText {
+    font-size: 1em;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    background-color: rgb(90, 60, 77);
+}
